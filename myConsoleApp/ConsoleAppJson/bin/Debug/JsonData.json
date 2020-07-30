@@ -1,0 +1,13 @@
+{
+	"Service":{
+		"Data":{
+			"Request":"HeartbeatCheck"
+		},
+		"Route":{
+			"SerialNO":"190228100202274050",
+			"SourceSysID":"10020",
+			"ServiceTime":"20190228155659",
+			"ServiceID":"1022000000"
+		}
+	}
+}

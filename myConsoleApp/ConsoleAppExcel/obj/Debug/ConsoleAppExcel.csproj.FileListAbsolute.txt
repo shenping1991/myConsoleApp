@@ -1,0 +1,13 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\obj\Debug\ConsoleAppExcel.csprojResolveAssemblyReference.cache
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\bin\Debug\ConsoleAppExcel.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\bin\Debug\ConsoleAppExcel.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\bin\Debug\JC.Common.dll
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\bin\Debug\NPOI.dll
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\obj\Debug\ConsoleAppExcel.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\obj\Debug\ConsoleAppExcel.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\bin\Debug\NPOI.OOXML.dll
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\bin\Debug\NPOI.OpenXml4Net.dll
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\bin\Debug\NPOI.xml
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\bin\Debug\NPOI.OOXML.xml
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppExcel\bin\Debug\NPOI.OpenXml4Net.xml

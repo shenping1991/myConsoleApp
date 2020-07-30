@@ -1,0 +1,5 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\myConsoleApplication\bin\Debug\myConsoleApplication.exe.config
+E:\webTestProj\ConsoleApplication\myConsoleApplication\myConsoleApplication\bin\Debug\myConsoleApplication.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\myConsoleApplication\bin\Debug\myConsoleApplication.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\myConsoleApplication\obj\Debug\myConsoleApplication.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\myConsoleApplication\obj\Debug\myConsoleApplication.pdb

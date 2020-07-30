@@ -1,0 +1,5 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppXml\obj\Debug\ConsoleAppXml.csprojResolveAssemblyReference.cache
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppXml\bin\Debug\ConsoleAppXml.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppXml\bin\Debug\ConsoleAppXml.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppXml\obj\Debug\ConsoleAppXml.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppXml\obj\Debug\ConsoleAppXml.pdb

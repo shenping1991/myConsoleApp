@@ -1,0 +1,4 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppLog\bin\Debug\ConsoleAppLog.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppLog\bin\Debug\ConsoleAppLog.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppLog\obj\Debug\ConsoleAppLog.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppLog\obj\Debug\ConsoleAppLog.pdb

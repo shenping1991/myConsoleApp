@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tree id="0">
+  <item id="Home" text="桌面" im0="desktop.gif">
+    <userdata name="file">desktop</userdata>
+  </item>
+  <item id="Case" text="案例" open="1">
+    <item id="IndustryCase" text="行业案例" im0="case.gif">
+      <userdata name="file">IndustryCase</userdata>
+    </item>
+    <item id="CustomerCase" text="客户案例" im0="case.gif">
+      <userdata name="file">CustomerCase</userdata>
+    </item>
+  </item>
+  <item id="About" text="关于" im0="about.gif">
+    <userdata name="about">about</userdata>
+  </item>
+</tree>
+

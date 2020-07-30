@@ -1,0 +1,5 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppThreadSafe\bin\Debug\ConsoleAppThreadSafe.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppThreadSafe\bin\Debug\ConsoleAppThreadSafe.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppThreadSafe\obj\Debug\ConsoleAppThreadSafe.csprojResolveAssemblyReference.cache
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppThreadSafe\obj\Debug\ConsoleAppThreadSafe.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppThreadSafe\obj\Debug\ConsoleAppThreadSafe.pdb

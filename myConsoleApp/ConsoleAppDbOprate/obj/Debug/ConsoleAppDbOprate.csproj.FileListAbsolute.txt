@@ -1,0 +1,7 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppDbOprate\bin\Debug\ConsoleAppDbOprate.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppDbOprate\bin\Debug\ConsoleAppDbOprate.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppDbOprate\bin\Debug\JC.Common.dll
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppDbOprate\obj\Debug\ConsoleAppDbOprate.csprojResolveAssemblyReference.cache
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppDbOprate\obj\Debug\ConsoleAppDbOprate.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppDbOprate\obj\Debug\ConsoleAppDbOprate.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppDbOprate\bin\Debug\ConsoleAppDbOprate.exe.config

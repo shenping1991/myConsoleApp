@@ -1,0 +1,5 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppIPPing\bin\Debug\ConsoleAppIPPing.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppIPPing\bin\Debug\ConsoleAppIPPing.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppIPPing\obj\Debug\ConsoleAppIPPing.csprojResolveAssemblyReference.cache
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppIPPing\obj\Debug\ConsoleAppIPPing.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppIPPing\obj\Debug\ConsoleAppIPPing.pdb

@@ -1,0 +1,43 @@
+//获取当前运行程序的目录
+string fileDir = Environment.CurrentDirectory;
+Console.WriteLine("当前程序目录："+fileDir);
+             
+//一个文件目录
+string filePath = "C:\\JiYF\\BenXH\\BenXHCMS.xml";
+Console.WriteLine("该文件的目录："+filePath);
+ 
+string str = "获取文件的全路径：" + Path.GetFullPath(filePath);   //-->C:\JiYF\BenXH\BenXHCMS.xml
+Console.WriteLine(str);
+str = "获取文件所在的目录：" + Path.GetDirectoryName(filePath); //-->C:\JiYF\BenXH
+Console.WriteLine(str);
+str = "获取文件的名称含有后缀：" + Path.GetFileName(filePath);  //-->BenXHCMS.xml
+Console.WriteLine(str);
+str = "获取文件的名称没有后缀：" + Path.GetFileNameWithoutExtension(filePath); //-->BenXHCMS
+Console.WriteLine(str);
+str = "获取路径的后缀扩展名称：" + Path.GetExtension(filePath); //-->.xml
+Console.WriteLine(str);
+str = "获取路径的根目录：" + Path.GetPathRoot(filePath); //-->C:\
+Console.WriteLine(str);
+Console.ReadKey();
+
+
+// 获取程序的基目录。
+System.AppDomain.CurrentDomain.BaseDirectory
+
+// 获取模块的完整路径。
+System.Diagnostics.Process.GetCurrentProcess().MainModule.FileName
+
+// 获取和设置当前目录(该进程从中启动的目录)的完全限定目录。
+System.Environment.CurrentDirectory
+
+// 获取应用程序的当前工作目录。
+System.IO.Directory.GetCurrentDirectory()
+
+// 获取和设置包括该应用程序的目录的名称。
+System.AppDomain.CurrentDomain.SetupInformation.ApplicationBase
+
+// 获取启动了应用程序的可执行文件的路径。
+System.Windows.Forms.Application.StartupPath
+
+// 获取启动了应用程序的可执行文件的路径及文件名
+System.Windows.Forms.Application.ExecutablePath

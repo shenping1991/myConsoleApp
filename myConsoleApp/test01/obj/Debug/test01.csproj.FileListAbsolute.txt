@@ -1,0 +1,9 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\test01\bin\Debug\test01.exe.config
+E:\webTestProj\ConsoleApplication\myConsoleApplication\test01\bin\Debug\test01.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\test01\bin\Debug\test01.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\test01\obj\Debug\test01.csprojResolveAssemblyReference.cache
+E:\webTestProj\ConsoleApplication\myConsoleApplication\test01\obj\Debug\test01.FrmMain.resources
+E:\webTestProj\ConsoleApplication\myConsoleApplication\test01\obj\Debug\test01.Properties.Resources.resources
+E:\webTestProj\ConsoleApplication\myConsoleApplication\test01\obj\Debug\test01.csproj.GenerateResource.Cache
+E:\webTestProj\ConsoleApplication\myConsoleApplication\test01\obj\Debug\test01.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\test01\obj\Debug\test01.pdb

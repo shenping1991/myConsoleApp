@@ -1,0 +1,5 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppIP\bin\Debug\ConsoleAppIP.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppIP\bin\Debug\ConsoleAppIP.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppIP\obj\Debug\ConsoleAppIP.csprojResolveAssemblyReference.cache
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppIP\obj\Debug\ConsoleAppIP.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppIP\obj\Debug\ConsoleAppIP.pdb

@@ -1,0 +1,6 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppJson\bin\Debug\ConsoleAppJson.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppJson\bin\Debug\ConsoleAppJson.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppJson\bin\Debug\Newtonsoft.Json.dll
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppJson\obj\Debug\ConsoleAppJson.csprojResolveAssemblyReference.cache
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppJson\obj\Debug\ConsoleAppJson.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ConsoleAppJson\obj\Debug\ConsoleAppJson.pdb

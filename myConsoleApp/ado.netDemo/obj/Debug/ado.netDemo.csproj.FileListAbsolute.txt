@@ -1,0 +1,6 @@
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ado.netDemo\bin\Debug\ado.netDemo.exe.config
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ado.netDemo\bin\Debug\ado.netDemo.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ado.netDemo\bin\Debug\ado.netDemo.pdb
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ado.netDemo\obj\Debug\ado.netDemo.csprojResolveAssemblyReference.cache
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ado.netDemo\obj\Debug\ado.netDemo.exe
+E:\webTestProj\ConsoleApplication\myConsoleApplication\ado.netDemo\obj\Debug\ado.netDemo.pdb
